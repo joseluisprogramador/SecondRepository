@@ -1,0 +1,10 @@
+C:\Users\Jose\Desktop\Calculator-App\Project_Main\bin\Debug\Project_Main.exe.config
+C:\Users\Jose\Desktop\Calculator-App\Project_Main\bin\Debug\Project_Main.exe
+C:\Users\Jose\Desktop\Calculator-App\Project_Main\bin\Debug\Project_Main.pdb
+C:\Users\Jose\Desktop\Calculator-App\Project_Main\obj\Debug\Project_Main.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\Calculator-App\Project_Main\obj\Debug\Project_Main.Form_Calculator.resources
+C:\Users\Jose\Desktop\Calculator-App\Project_Main\obj\Debug\Project_Main.Properties.Resources.resources
+C:\Users\Jose\Desktop\Calculator-App\Project_Main\obj\Debug\Project_Main.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\Calculator-App\Project_Main\obj\Debug\Project_Main.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Calculator-App\Project_Main\obj\Debug\Project_Main.exe
+C:\Users\Jose\Desktop\Calculator-App\Project_Main\obj\Debug\Project_Main.pdb
